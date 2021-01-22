@@ -1,0 +1,41 @@
+.landingpage {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+}
+
+.landingpage > h3 {
+      text-align: center;
+}
+
+.landingpage > img {
+      object-fit: contain;
+      width: 50%;
+      height: 50%;
+      -webkit-box-shadow: 22px 24px 45px 8px rgba(77, 138, 240, 0.96);
+      box-shadow: 22px 24px 45px 8px rgba(77, 138, 240, 0.96);
+      border-radius: 10px;
+}
+.buttons {
+      position: absolute;
+      top: 10vh;
+      right: 10vw;
+}
+
+@media only screen and (max-width: 600px) {
+      .landingpage > img {
+            object-fit: contain;
+            width: 80%;
+            height: auto;
+            -webkit-box-shadow: 22px 24px 45px 8px rgba(77, 138, 240, 0.96);
+            box-shadow: 22px 24px 45px 8px rgba(77, 138, 240, 0.96);
+            border-radius: 10px;
+      }
+      .buttons {
+            position: absolute;
+            top: 15vh;
+            right: 5vw;
+      }
+}

@@ -1,0 +1,51 @@
+h3 {
+      text-align: center;
+      justify-content: center;
+}
+
+table {
+      font-family: cursive;
+      border-collapse: collapse;
+      width: 100%;
+      background-color: transparent;
+      -webkit-box-shadow: 9px -14px 50px 44px rgba(77, 138, 240, 0.65);
+      box-shadow: 9px -14px 50px 44px rgba(77, 138, 240, 0.65);
+}
+
+td,
+th {
+      border: 1px solid rgb(12, 56, 12);
+      text-align: left;
+      padding: 8px;
+      background-color: transparent;
+}
+
+.button {
+      padding: 0.5rem;
+      background-color: transparent;
+}
+
+@media only screen and (max-width: 600px) {
+      table {
+            font-size: small;
+            font-family: cursive;
+            border-collapse: collapse;
+            width: 100%;
+            background-color: transparent;
+            -webkit-box-shadow: 9px -14px 50px 44px rgba(77, 138, 240, 0.65);
+            box-shadow: 9px -14px 50px 44px rgba(77, 138, 240, 0.65);
+      }
+
+      td,
+      th {
+            border: 1px solid rgb(12, 56, 12);
+            text-align: left;
+            padding: 1px;
+            background-color: transparent;
+      }
+
+      .button {
+            padding: 0.2rem;
+            background-color: transparent;
+      }
+}

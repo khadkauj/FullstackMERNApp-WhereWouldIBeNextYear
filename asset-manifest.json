@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FullstackMERNApp-WhereWouldIBeNextYear/static/css/main.566bbbbf.chunk.css",
+    "main.js": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/main.a52eebd6.chunk.js",
+    "main.js.map": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/main.a52eebd6.chunk.js.map",
+    "runtime-main.js": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/runtime-main.6a4b6ba8.js",
+    "runtime-main.js.map": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/runtime-main.6a4b6ba8.js.map",
+    "static/js/2.173f4e38.chunk.js": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/2.173f4e38.chunk.js",
+    "static/js/2.173f4e38.chunk.js.map": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/2.173f4e38.chunk.js.map",
+    "index.html": "/FullstackMERNApp-WhereWouldIBeNextYear/index.html",
+    "static/css/main.566bbbbf.chunk.css.map": "/FullstackMERNApp-WhereWouldIBeNextYear/static/css/main.566bbbbf.chunk.css.map",
+    "static/js/2.173f4e38.chunk.js.LICENSE.txt": "/FullstackMERNApp-WhereWouldIBeNextYear/static/js/2.173f4e38.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FullstackMERNApp-WhereWouldIBeNextYear/static/media/undraw.34d719e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a4b6ba8.js",
+    "static/js/2.173f4e38.chunk.js",
+    "static/css/main.566bbbbf.chunk.css",
+    "static/js/main.a52eebd6.chunk.js"
+  ]
+}
